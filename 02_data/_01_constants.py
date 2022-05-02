@@ -1,7 +1,7 @@
 
 # set block period for analysis
 START_BLOCK = 14560000
-END_BLOCK = 14570000
+END_BLOCK = 14560500
 
 ADDRESS = {
     'UniswapFactory': '0x5C69bEe701ef814a2B6a3EDD4B1652CB9cc5aA6f',
